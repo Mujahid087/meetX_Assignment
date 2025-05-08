@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+
+# Optional OS/system files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Build outputs
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.sw?
+
+# MongoDB dump
+dump/
