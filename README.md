@@ -1,8 +1,3 @@
-Here's the updated `README.md` file with the correct hosted API link and the relevant sections added:
-
----
-
-````markdown
 # Activity Booking API
 
 This is a simple Activity Booking REST API built using Node.js, Express, MongoDB, and JWT Authentication.
@@ -76,8 +71,6 @@ Import the provided Postman collection `MeetX_ActivityBookingAPI.postman_collect
 You can access the code and further instructions on the [GitHub Repository](https://github.com/Mujahid087/meetX_Assignment).
 
 ````
-
----
 
 You can now commit and push this updated `README.md` file to your GitHub repository:
 
