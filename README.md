@@ -51,8 +51,9 @@ npm run dev
 | ------ | -------------------- | ----------------------- |
 | POST   | `/api/auth/register` | Register a new user     |
 | POST   | `/api/auth/login`    | Login and get token     |
-| GET    | `/api/activities`    | List all activities     |
+| GET    | `/api/activities/`   | List all activities     |
 | POST   | `/api/activities`    | Create a new activity   |
+|GET     | `/api/activities/:id`| get a single activity   | 
 | POST   | `/api/bookings`      | Book an activity (auth) |
 | GET    | `/api/bookings/me`   | Get user's bookings     |
 
