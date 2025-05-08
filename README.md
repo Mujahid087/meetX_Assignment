@@ -66,17 +66,4 @@ Import the provided Postman collection `MeetX_ActivityBookingAPI.postman_collect
 
 ---
 
-## 🔗 GitHub Repository
-
-You can access the code and further instructions on the [GitHub Repository](https://github.com/Mujahid087/meetX_Assignment).
-
-````
-
-You can now commit and push this updated `README.md` file to your GitHub repository:
-
-```bash
-git add README.md
-git commit -m "Update README with hosted API link and Postman collection info"
-git push origin main
-````
 
